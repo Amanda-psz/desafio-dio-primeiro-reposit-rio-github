@@ -1,0 +1,22 @@
+Comandos básicos para o terminal no sistema Windows:
+
+-cd
+-dir
+-mkdir
+-del/rmdir
+
+Alguns comandos para o Git Bash:
+
+-git init
+-git add
+-git commit -m "digitar a mensagem que desejar para o commit"
+-git status
+-git push
+-git pull
+-git clone + a url que deseja clonar
+-git config --list
+-ls
+-Tecla Ctrl + letra L
+
+
+Obs.: Existem diversos comandos utilizados no Git, os comandos descritos são alguns dos principais mais utilizados no sistema Windows.
